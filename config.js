@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Go to Sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -55,9 +55,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Yahoo',
-			icon: 'mail',
-			link: 'https://yahoo.com/',
+			name: 'ChatGPT',
+			icon: 'glasses',
+			link: 'https://chatgpt.com/?model=o3-mini',
 		},
 		{
 			id: '4',
@@ -67,9 +67,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'IDK',
-			icon: 'glasses',
-			link: '',
+			name: 'Yahoo',
+			icon: 'mail',
+			link: 'https://yahoo.com/',
 		},
 		{
 			id: '6',
